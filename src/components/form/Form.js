@@ -2,7 +2,7 @@ import './form.scss'
 import {useDispatch} from "react-redux";
 import {useSelector} from "react-redux";
 import {addNote} from "../notesList/notesSlice";
-import {setTitleText, setNoteText, addMarking} from "./formSlice";
+import {setTitleText, setNoteText} from "./formSlice";
 import { v4 as uuidv4 } from 'uuid';
 import {getCurrentDateString} from "../../utils/dateUtil";
 import {useEffect} from "react";

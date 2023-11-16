@@ -1,7 +1,21 @@
 {
   "name": "notesinahurry",
+  "description": "Module with form and adding notes functional",
   "version": "0.1.0",
   "private": true,
+  "author": "Valeriy V.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "react",
+    "components",
+    "ui",
+    "form"
+  ],
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src"
+  ],
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",

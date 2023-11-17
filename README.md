@@ -10,7 +10,7 @@ the notes go into the list below the form. Notes can be deleted from the list us
 ## Installation
 
 ```
-$ npm i notesinahurry --save
+$ npm i notesinahurry
 ```
 
 ## Usage
@@ -24,6 +24,6 @@ use as a regular component
 
 ## Module appearance
 
-![alt text](./picture.png)
+![alt text](https://i.ibb.co/42qz9xX/picture.png)
 
 

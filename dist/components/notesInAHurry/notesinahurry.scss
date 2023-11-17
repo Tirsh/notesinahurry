@@ -1,0 +1,6 @@
+:root {
+  --content-width: 1200px;
+}
+.center {
+  padding: 0 calc(50% - var(--content-width) / 2);
+}
